@@ -1,45 +1,23 @@
 ---
 layout: home
-title: Thingking Machine
+title: Fantasizing Machine
 ---
-# Thingking Machine
+# Fantasizing Machine
 
 <pre>
   A machine is a <b>thing</b>. Things can not <b>think</b>. ...but some of them can <b>thingk</b>!
 </pre>
 
-[Thingking-Machine (meta)](https://thingking-machine.github.io/meta/)
+[Fantasizing-Machine (oaio)](https://fantasizing-machine.github.io/oaio/)
 
-[Thingking-Machine (gemini)](https://thingking-machine.github.io/gemini/)
+[Fantasizing-Machine (grok)](https://fantasizing-machine.github.io/grok/)
 
-[Thingking-Machine (geminit)](https://thingking-machine.github.io/geminit/)
+[Fantasizing-Machine (fireworksr)](https://fantasizing-machine.github.io/fireworksr/)
 
-[Thingking-Machine (openai)](https://thingking-machine.github.io/openai/)
+[Fantasizing-Machine (depsekr)](https://fantasizing-machine.github.io/depsekr/)
 
-[Thingking-Machine (openaic)](https://thingking-machine.github.io/openaic/)
-
-[Thingking-Machine (oaio)](https://thingking-machine.github.io/oaio/)
-
-[Thingking-Machine (grok)](https://thingking-machine.github.io/grok/)
-
-[Thingking-Machine (grokf)](https://thingking-machine.github.io/grokf/)
-
-[Thingking-Machine (grokc)](https://thingking-machine.github.io/grokc/)
-
-[Thingking-Machine (fireworks)](https://thingking-machine.github.io/fireworks/)
-
-[Thingking-Machine (fireworksr)](https://thingking-machine.github.io/fireworksr/)
-
-[Thingking-Machine (fireworkc)](https://thingking-machine.github.io/fireworkc/)
-
-[Thingking-Machine (depsek)](https://thingking-machine.github.io/depsek/)
-
-[Thingking-Machine (depsekc)](https://thingking-machine.github.io/depsekc/)
-
-[Thingking-Machine (depsekr)](https://thingking-machine.github.io/depsekr/)
-
-[Thingking-Machine (depsekrp)](https://thingking-machine.github.io/depsekrp/)
+[Fantasizing-Machine (depsekrp)](https://fantasizing-machine.github.io/depsekrp/)
 
 
 
-Thingking-Machine is just one of participants of the [Multilogue](multilogue)
+Fantasizing-Machine is just one of participants of the [Multilogue](multilogue)
